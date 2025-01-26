@@ -137,7 +137,8 @@ pytest app/tests/
 3. Submit pull request
 
 ## Architecture
-![Architecture Diagram](/nlp.png)
+![nlp](https://github.com/user-attachments/assets/2d14f630-739c-4cf8-ae62-13e08f726f36)
+
 
 ## License
 [Your License]
