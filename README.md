@@ -1,4 +1,4 @@
-# NLP-to-SQL Agent
+# NLPSQL Agent
 
 Convert natural language queries to SQL using OpenAI's language models with custom schema understanding.
 
